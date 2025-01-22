@@ -18,9 +18,9 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadrinaldi7&layout=compact&theme=radical)  
 
 ## 📫 Contact Me  
-- 🌐 Portfolio: [Your Portfolio Link](https://rndev.my.id/)   
-- 📧 Email: [Your Email Address] muhammad.rinaldi007.mr@gmail.com 
-- 💼 LinkedIn: [Your LinkedIn Profile]  (https://www.linkedin.com/in/muhammadrinaldi7/)
+- 🌐 Portfolio: (https://rndev.my.id/)   
+- 📧 Email: muhammad.rinaldi007.mr@gmail.com 
+- 💼 LinkedIn: (https://www.linkedin.com/in/muhammadrinaldi7/)
 
 ## ✨ Fun Facts  
 - I enjoy solving complex coding problems and continuously learning new technologies.  
