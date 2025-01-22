@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Muhammad Rinaldi  
+![Profile Views](https://komarev.com/ghpvc/?username=muhammadrinaldi7&color=blue&style=flat)  
 
+## 🚀 About Me  
+- 👨‍💻 I'm a **React.js & Next.js Developer** with a passion for creating modern, responsive, and user-friendly web applications.  
+- 💡 Interested in **state management** tools like `Zustand`, **RESTful APIs**, and building scalable frontend architectures.  
+- 🌱 Currently exploring **fullstack development** with **Laravel** for backend.  
 
-**muhammadrinaldi7/muhammadrinaldi7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌟 Skills  
+- **Frontend**: React.js, Next.js, JavaScript (ES6+), TypeScript, HTML5, CSS3, TailwindCSS  
+- **Backend**: Node.js, Laravel  
+- **State Management**: Zustand, Redux, Context API  
+- **Tools**: Git, Axios, Postman, VS Code  
+- **Others**: JWT Authentication, RESTful API Integration  
 
-Here are some ideas to get you started:
+## 📈 GitHub Stats  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadrinaldi7&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadrinaldi7&layout=compact&theme=radical)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 📫 Contact Me  
+- 🌐 Portfolio: [Your Portfolio Link](https://rndev.my.id/)   
+- 📧 Email: [Your Email Address] muhammad.rinaldi007.mr@gmail.com 
+- 💼 LinkedIn: [Your LinkedIn Profile]  (https://www.linkedin.com/in/muhammadrinaldi7/)
+
+## ✨ Fun Facts  
+- I enjoy solving complex coding problems and continuously learning new technologies.  
+- When I'm not coding, I love exploring new tech trends, playing games, or working on side projects.  
+
+---
 
